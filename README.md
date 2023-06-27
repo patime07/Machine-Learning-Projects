@@ -9,6 +9,7 @@ Project 1 " Medical Cost Prediction" : This project leverages the power of Linea
 + Libraries and Tools
   
 These projects use popular Python libraries for Machine Learning such as:
+
 Scikit-Learn
 Pandas
 NumPy
