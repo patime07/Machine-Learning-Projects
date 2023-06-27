@@ -31,9 +31,9 @@ Contribution
 
 I am open to collaborations, modifications, and improvements to this repository. Feel free to fork the repo and submit pull requests. Also, if you find any issues or have any questions, please open an issue, and I will do my best to address it promptly.
 
-Author:
 
-Fz Iguenfer
+
+Fz Iguenfer :)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fziguenfer/).
 
