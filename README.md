@@ -2,11 +2,12 @@
 Introduction
 Welcome to my GitHub repository for Machine Learning projects! This repository is a collection of interesting and diverse projects I've worked on in the field of Machine Learning. These projects encompass various aspects of Machine learning, utilize various types of datasets, and address real-world problems with practical solutions.
 
-+ Projects
++ Projects :
+
 Project 1 " Medical Cost Prediction" : This project leverages the power of Linear Regression to predict a patient's medical costs based on their Body Mass Index (BMI), demonstrating how a single variable can provide significant insights into healthcare charges.
 
 + Libraries and Tools
-+ 
+  
 These projects use popular Python libraries for Machine Learning such as:
 Scikit-Learn
 Pandas
